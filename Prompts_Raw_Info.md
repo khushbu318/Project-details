@@ -257,3 +257,43 @@ Our project got select for the round 2 and it was interview round where there wa
 | 8 | Capgemini  | **SSP–Hub Rare Medication Access Agentic AI**                   | ❌           | Semantic Kernel, React, Flask, Azure                                                         |
 | 9 | IKS Health | **Healthcare Agentic AI Prior Authorization Framework**         | ✅           | FastAPI, Vertex AI, Google Pub/Sub, PostgreSQL, Redis, n8n, Docker, LLMs, Browser Automation |
 
+------- 
+
+# Resume content
+---
+
+# Professional Summary
+
+AI/ML Engineer with experience at Capgemini across machine learning, Generative AI, RAG, NLP, and data-driven automation. Built and contributed to projects spanning healthcare prediction, time-series forecasting, enterprise RAG, natural-language-to-SQL, and internal automation, using Python, Scikit-learn, Streamlit, LangChain, React, Flask, and SAP HANA ML. Experienced in taking AI/ML solutions from data preparation and experimentation through evaluation, prototyping, and business-oriented presentation.
+
+At IKS Health, contributed to a containerized Agentic AI framework for healthcare prior-authorization automation, developing FastAPI services and integrating Google Vertex AI, Google Pub/Sub, PostgreSQL, Redis, n8n, Docker, and browser automation. Worked on event-driven healthcare workflows, Human-in-the-Loop and MFA/OTP automation, and secure integration of AI services to support scalable automation across payer portals.
+
+# Projects
+
+## 1. Patient No-Show Prediction
+
+Built a machine learning classification solution to predict patient appointment no-shows using a Kaggle healthcare dataset as part of an internal ML learning initiative at Capgemini. Led a ~6-member team, coordinated model experimentation, and implemented data cleaning, exploratory data analysis, categorical encoding, and date-based feature engineering including appointment waiting time. Compared multiple classification approaches including tree-based and boosting models, with CatBoost selected based on comparative model performance, while consolidating the final Jupyter Notebook and presentation for the project mentor. **Tech:** Python, Pandas, NumPy, Scikit-learn, XGBoost, CatBoost, Matplotlib, Seaborn.
+
+## 2. Bench Employee Ranking Dashboard
+
+Developed an interactive Streamlit dashboard to analyze and rank bench employees, providing improved visibility into employee profiles and supporting more data-driven resource utilization decisions. Processed and analyzed employee-related data using Python and presented the resulting rankings through an interactive dashboard, transforming raw employee information into a more accessible view for internal decision-making. **Tech:** Python, Streamlit, Data Analysis.
+
+## 3. One-Click Data Cleaning Application — Hackathon
+
+Led a 5-member team during an internal Microsoft-organized hackathon to build a one-click data-cleaning application aimed at simplifying repetitive data preparation tasks. Contributed to the development of the solution while coordinating the team and integrating the team's work into a demonstrable prototype, which advanced to the second round of the hackathon and contributed to my transition toward a Generative AI development role. **Tech:** Python, Generative AI/AI tooling, Microsoft Semantic Kernel (where applicable to the prototype).
+
+## 4. Electricity Usage Forecasting
+
+Worked on a time-series forecasting solution to predict hourly electricity usage across building locations, using SAP HANA ML (`hana_ml`) to support more informed resource planning. Monitored and refined the forecasting model through March 2025, analyzing prediction behavior and model performance to support cost-conscious resource deployment and potential CO₂ reduction through optimized energy usage. **Tech:** Python, SAP HANA ML (`hana_ml`), Time-Series Forecasting, Machine Learning.
+
+## 5. RAG-Based Enterprise Chatbot / SAP HANA Migration Assistant
+
+Built a Retrieval-Augmented Generation (RAG) chatbot to assist SAP HANA developers with data migration and internal technical workflows by combining document retrieval, vector search, and LLM-based response generation. Developed and refined the retrieval and prompting workflow through intensive prompt engineering over approximately three months to improve response relevance, consistency, and usefulness, contributing to successful internal adoption and client interest during beta testing. **Tech:** Python, RAG, Vector Databases, FAISS, LangChain, Semantic Kernel, React.js, Flask, LLMs.
+
+## 6. Natural Language-to-SQL Intelligence Tool
+
+Developed a natural-language-to-SQL solution that enabled non-technical users to query data using plain-language questions instead of manually writing SQL. Implemented the workflow to interpret natural-language requests, generate SQL using metadata/context, execute the resulting queries, and visualize the returned data through an interactive React interface with Google Charts, streamlining data exploration and analysis. **Tech:** Python, SQL, LLM Integration, React.js, Google Charts.
+
+## 7. Healthcare Agentic AI Prior Authorization Framework
+
+Contributed to a containerized multi-agent healthcare automation framework designed to streamline prior-authorization workflows across payer portals. Developed FastAPI-based services, integrated Google Vertex AI for LLM-powered workflow reasoning and browser automation, and implemented event-driven processing with Google Pub/Sub; also contributed to Human-in-the-Loop and MFA/OTP workflows using n8n, PostgreSQL, and Redis to support reliable and scalable healthcare automation. **Tech:** Python, FastAPI, Google Vertex AI, LLMs, Google Pub/Sub, Playwright/Browser Automation, PostgreSQL, Redis, n8n, Docker, Kubernetes/GKE.

@@ -65,36 +65,171 @@ Built a machine learning model to predict patient no-shows, improving scheduling
 PythonMachine LearningStreamlitData Analysis
 
 -------------------------
+
 # [Project Name]
 
 **Company:** ...
-**Role / Timeframe:** ...
-**One-line summary:** ...
+**Role:** ...
+**Timeframe:** ...
+**Team Size:** ...
+**My Position in Team:** ...
 
-## Problem / Why it existed
-(what business/user problem this solved)
+**One-line Summary:** ...
 
-## My Role & Ownership
-(what specifically I did vs. team)
+---
 
-## Architecture / How it worked
-(flow of the system, step by step)
+## 1. Problem / Why It Existed
 
-## Tech Stack
-(with a short "why this tool" note per major piece)
+### Business Problem
+...
 
-## Key Technical Decisions
-(tricky choices, trade-offs made)
+### Technical Problem
+...
 
-## Challenges & How I Solved Them
-## Impact / Results
-(metrics if any, qualitative outcomes)
+### Who Used It
+...
 
-## Interview Talking Points
-(the 2-3 things I'd highlight if asked about this in an interview)
+### Why This Solution Was Needed
+...
 
-## Open Questions / Gaps
-(anything I couldn't recall — flagged, not faked)
+---
+
+## 2. My Role & Ownership
+
+### What I Personally Built
+...
+
+### What I Contributed To
+...
+
+### What Other Team Members Owned
+...
+
+---
+
+## 3. System / Product Overview
+
+### What the System Does
+...
+
+### End-to-End Flow
+...
+
+---
+
+## 4. Architecture / How It Worked
+
+### High-Level Architecture
+...
+
+### Step-by-Step Flow
+1. ...
+2. ...
+3. ...
+
+### Component Responsibilities
+...
+
+---
+
+## 5. Tech Stack
+
+| Technology | Where It Was Used | Why It Was Used |
+|---|---|---|
+| ... | ... | ... |
+
+---
+
+## 6. Implementation Details
+
+### Backend
+...
+
+### Frontend
+...
+
+### AI / ML
+...
+
+### Database / Storage
+...
+
+### APIs / Integrations
+...
+
+### Infrastructure / Deployment
+...
+
+---
+
+## 7. Key Technical Decisions
+
+### Decision 1
+**What:** ...
+**Why:** ...
+**Alternative:** ...
+**Trade-off:** ...
+
+---
+
+## 8. Challenges & How I Solved Them
+
+### Challenge 1
+**Problem:** ...
+**Root Cause:** ...
+**Solution:** ...
+**Result:** ...
+
+---
+
+## 9. Testing / Validation
+
+...
+
+---
+
+## 10. Production / Deployment
+
+...
+
+---
+
+## 11. Impact / Results
+
+### Technical Impact
+...
+
+### Business Impact
+...
+
+### Metrics
+...
+
+---
+
+## 12. Interview Talking Points
+
+### 1. ...
+### 2. ...
+### 3. ...
+
+---
+
+## 13. Likely Interview Questions
+
+### Q1. ...
+**Answer:** ...
+
+### Q2. ...
+**Answer:** ...
+
+---
+
+## 14. Open Questions / Gaps
+
+- [ ] ...
+- [ ] ...
+
 ----------
 Ready for #2 — One-Click Data Cleaning App (hackathon) whenever you want to start. Round 1 questions for that one:
 
